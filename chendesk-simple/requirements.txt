@@ -1,0 +1,8 @@
+pyautogui==0.9.54
+pillow==10.4.0
+mss==9.0.1
+opencv-python==4.10.0.84
+numpy==1.26.4
+pynput==1.7.7
+customtkinter==5.2.2
+zeroconf==0.131.0
